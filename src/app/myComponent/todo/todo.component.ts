@@ -14,13 +14,13 @@ export class TodoComponent implements OnInit {
       {
       sno:1,
       title:"This is Title 1",
-      desc:"Description",
+      desc:"Description 1",
       active:true
     },
     {
       sno:2,
       title:"This is Title 2",
-      desc:"Description",
+      desc:"Description 2",
       active:true
     },
   ]
