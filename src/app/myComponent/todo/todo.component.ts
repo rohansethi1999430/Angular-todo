@@ -20,7 +20,7 @@ export class TodoComponent implements OnInit {
     {
       sno:2,
       title:"This is Title 2",
-      desc:"Description 2",
+      desc:"Description 2 ",
       active:true
     },
   ]
